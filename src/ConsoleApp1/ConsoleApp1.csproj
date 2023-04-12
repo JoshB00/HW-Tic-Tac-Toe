@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\joshb\OneDrive\デスクトップ\Tic Tac Toe #3Program.cs" Link="Tic Tac Toe #3Program.cs" />
-  </ItemGroup>
-
 </Project>
